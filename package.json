@@ -1,6 +1,6 @@
 {
   "name": "parsetext2json",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "parse string to a dictionary with eliminating commas, periods, question mark and exclamation mark.",
   "main": "index.js",
   "scripts": {
