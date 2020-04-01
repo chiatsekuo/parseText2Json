@@ -1,10 +1,13 @@
 {
   "name": "parsetext2json",
   "version": "1.0.0",
-  "description": "��#\u0000 \u0000p\u0000a\u0000r\u0000s\u0000e\u0000T\u0000e\u0000x\u0000t\u00002\u0000J\u0000s\u0000o\u0000n\u0000\r\u0000 \u0000",
-  "main": "readFile.js",
+  "description": "parse string to a dictionary with eliminating commas, periods, question mark and exclamation mark.",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release:major": "npm version major",
+    "release:minor": "npm version minor",
+    "release:patch": "npm version patch"
   },
   "repository": {
     "type": "git",
