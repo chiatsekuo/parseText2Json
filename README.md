@@ -1,3 +1,4 @@
+![npm](https://img.shields.io/npm/v/parsetext2json) ![NPM](https://img.shields.io/npm/l/parsetext2json) ![npm](https://img.shields.io/npm/dy/parsetext2json)
 # parseText2Json
 
 This repository lets you easily parse any `.txt` file containing strings or numbers into a dictionary format (JSON Object) that counts the frequency of each word/ number.
